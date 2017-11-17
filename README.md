@@ -7,11 +7,13 @@ Goal of this Repository is to provide complete and specific instructions to buil
 
 The software integration will be mostly based on HAP-NodeJS, a really great project and effort.
 
-Ready-to-use devices:
+Hardware will usually be based on the Raspberry Zero W as it seems to provide the lowest price point.
+
+A Ready-to-use devices:
 
 -None yet ;-)
 
-Currently developed devices:
+B Currently developed devices:
 
 1) Garage Door Opener
 
@@ -24,7 +26,7 @@ Currently developed devices:
 The cameras I found so far were all inferior in streaming quality to the Logitech Circle 2. Since the lens quality is on par with the commercial camera I bought, I will try to solve the quality loss that is happening when streaming. I hope I won;t find out that Apple is reducing the quality for non-certfied devices.
 
 
-Planned devices:
+C Planned devices:
 
 3) Combine all these devices into a cheap generic one that can be placed into every room
 4) Motion camera that is more flexible with how it stores snapshots (S3, ftp, ...)
