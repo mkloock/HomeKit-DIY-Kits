@@ -36,3 +36,5 @@ C Planned devices:
 6) Temperatur and Humidity Sensor
 7) Motion Sensor
 8) Hybrid device
+
+Martin
