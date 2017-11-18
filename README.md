@@ -11,7 +11,9 @@ Hardware will usually be based on the Raspberry Zero W as it seems to provide th
 
 A Ready-to-use devices:
 
+
 -None yet ;-)
+
 
 B Currently developed devices:
 
